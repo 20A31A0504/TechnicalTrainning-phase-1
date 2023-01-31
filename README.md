@@ -1,1 +1,1 @@
-# TechnicalTrainningDay2
+# TechnicalTrainning
