@@ -1,1 +1,1 @@
-# TechnicalTrainning
+TechnicalTrainning
